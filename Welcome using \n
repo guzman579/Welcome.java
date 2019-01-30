@@ -1,0 +1,10 @@
+//Welcome.cpp
+#include <iostream>
+using namespace std;
+int main()
+{
+   // main method begins execution of C++ application
+        cout<<"Welcome to ";
+        cout<<"Java Programming!\n";
+   } // end main
+} // end class 
