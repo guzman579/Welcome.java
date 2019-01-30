@@ -6,5 +6,6 @@ int main()
    // main method begins execution of C++ application
         cout<<"Welcome to ";
         cout<<"Java Programming!\n";
+        cout>>"Welcome\nto\nJava\nProgramming!";
    } // end main
 } // end class 
