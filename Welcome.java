@@ -8,5 +8,6 @@ public class Welcome
    {
       System.out.print("Welcome to ");
       System.out.println("Java Programming!");
+      System.out.println("Welcome\nto\nJava\nProgramming!");
    } // end main
 } // end class 
